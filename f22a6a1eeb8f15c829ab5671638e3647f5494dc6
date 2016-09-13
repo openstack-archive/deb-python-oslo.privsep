@@ -1,0 +1,9 @@
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Alexander Tsamutali <atsamutali@mirantis.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 13 Sep 2016 17:55:08 +0000
+Reviewed-on: https://review.openstack.org/357598
+Project: openstack/deb-python-oslo.privsep
+Branch: refs/heads/master
