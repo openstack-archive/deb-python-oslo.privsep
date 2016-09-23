@@ -1,0 +1,8 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 22 Sep 2016 21:29:20 +0000
+Reviewed-on: https://review.openstack.org/373776
+Project: openstack/deb-python-oslo.privsep
+Branch: refs/heads/master
